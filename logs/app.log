@@ -1,0 +1,105 @@
+2025-01-28 09:13:23.534 | INFO     | __main__:<module>:8 - O sistema iniciou com sucesso! (INFO)
+2025-01-28 09:13:23.534 | WARNING  | __main__:<module>:9 - Aviso: Entrada de dados inesperada (WARNING)
+2025-01-28 09:13:23.535 | ERROR    | __main__:<module>:10 - Erro ao conectar ao banco de dados! (ERROR)
+2025-01-28 09:13:23.535 | CRITICAL | __main__:<module>:11 - Falha crítica! O sistema será encerrado. (CRITICAL)
+2025-01-28 09:13:23.535 | ERROR    | __main__:<module>:18 - An error has been caught in function '<module>', process 'MainProcess' (25744), thread 'MainThread' (16636):
+Traceback (most recent call last):
+
+> File "E:\-Progamacoes\GIthub\simple_apps\log_test.py", line 18, in <module>
+    divisao_por_zero()
+    └ <function divisao_por_zero at 0x0000011D000B7100>
+
+  File "E:\-Progamacoes\GIthub\simple_apps\log_test.py", line 16, in divisao_por_zero
+    return 1 / 0  # Isso gerará um erro capturado automaticamente
+
+ZeroDivisionError: division by zero
+2025-01-28 09:14:18.783 | INFO     | __main__:<module>:8 - O sistema iniciou com sucesso! (INFO)
+2025-01-28 09:14:18.783 | WARNING  | __main__:<module>:9 - Aviso: Entrada de dados inesperada (WARNING)
+2025-01-28 09:14:18.784 | ERROR    | __main__:<module>:10 - Erro ao conectar ao banco de dados! (ERROR)
+2025-01-28 09:14:18.784 | CRITICAL | __main__:<module>:11 - Falha crítica! O sistema será encerrado. (CRITICAL)
+2025-01-28 09:14:18.784 | ERROR    | __main__:<module>:20 - An error has been caught in function '<module>', process 'MainProcess' (26116), thread 'MainThread' (23128):
+Traceback (most recent call last):
+
+> File "E:\-Progamacoes\GIthub\simple_apps\log_test.py", line 20, in <module>
+    divisao_por_zero()
+    └ <function divisao_por_zero at 0x0000019B2A327100>
+
+  File "E:\-Progamacoes\GIthub\simple_apps\log_test.py", line 18, in divisao_por_zero
+    return 1 / 0  # Isso gerará um erro capturado automaticamente
+
+ZeroDivisionError: division by zero
+2025-01-28 09:15:35.420 | INFO     | __main__:<module>:8 - O sistema iniciou com sucesso! (INFO)
+2025-01-28 09:15:35.420 | WARNING  | __main__:<module>:9 - Aviso: Entrada de dados inesperada (WARNING)
+2025-01-28 09:15:35.420 | ERROR    | __main__:<module>:10 - Erro ao conectar ao banco de dados! (ERROR)
+2025-01-28 09:15:35.420 | CRITICAL | __main__:<module>:11 - Falha crítica! O sistema será encerrado. (CRITICAL)
+2025-01-28 09:15:35.421 | ERROR    | __main__:<module>:20 - An error has been caught in function '<module>', process 'MainProcess' (1896), thread 'MainThread' (11716):
+Traceback (most recent call last):
+
+> File "E:\-Progamacoes\GIthub\simple_apps\log_test.py", line 20, in <module>
+    divisao_por_zero()
+    └ <function divisao_por_zero at 0x000001D2BAD7B060>
+
+  File "E:\-Progamacoes\GIthub\simple_apps\log_test.py", line 18, in divisao_por_zero
+    return 1 / 0  # Isso gerará um erro capturado automaticamente
+
+ZeroDivisionError: division by zero
+2025-01-28 09:15:35.422 | INFO     | __main__:<module>:24 - Arquivo 0 processado com sucesso
+2025-01-28 09:15:35.422 | INFO     | __main__:<module>:24 - Arquivo 1 processado com sucesso
+2025-01-28 09:15:35.422 | INFO     | __main__:<module>:24 - Arquivo 2 processado com sucesso
+2025-01-28 09:15:35.423 | INFO     | __main__:<module>:24 - Arquivo 3 processado com sucesso
+2025-01-28 09:15:35.423 | INFO     | __main__:<module>:24 - Arquivo 4 processado com sucesso
+2025-01-28 09:15:35.423 | INFO     | __main__:<module>:24 - Arquivo 5 processado com sucesso
+2025-01-28 09:15:35.424 | INFO     | __main__:<module>:24 - Arquivo 6 processado com sucesso
+2025-01-28 09:15:35.424 | INFO     | __main__:<module>:24 - Arquivo 7 processado com sucesso
+2025-01-28 09:15:35.424 | INFO     | __main__:<module>:24 - Arquivo 8 processado com sucesso
+2025-01-28 09:15:35.424 | INFO     | __main__:<module>:24 - Arquivo 9 processado com sucesso
+2025-01-28 09:15:46.317 | INFO     | __main__:<module>:8 - O sistema iniciou com sucesso! (INFO)
+2025-01-28 09:15:46.318 | WARNING  | __main__:<module>:9 - Aviso: Entrada de dados inesperada (WARNING)
+2025-01-28 09:15:46.318 | ERROR    | __main__:<module>:10 - Erro ao conectar ao banco de dados! (ERROR)
+2025-01-28 09:15:46.318 | CRITICAL | __main__:<module>:11 - Falha crítica! O sistema será encerrado. (CRITICAL)
+2025-01-28 09:15:46.318 | ERROR    | __main__:<module>:20 - An error has been caught in function '<module>', process 'MainProcess' (4964), thread 'MainThread' (12104):
+Traceback (most recent call last):
+
+> File "E:\-Progamacoes\GIthub\simple_apps\log_test.py", line 20, in <module>
+    divisao_por_zero()
+    └ <function divisao_por_zero at 0x000001A320737060>
+
+  File "E:\-Progamacoes\GIthub\simple_apps\log_test.py", line 18, in divisao_por_zero
+    return 1 / 0  # Isso gerará um erro capturado automaticamente
+
+ZeroDivisionError: division by zero
+2025-01-28 09:15:46.320 | INFO     | __main__:<module>:23 - Arquivo 0 processado com sucesso
+2025-01-28 09:15:46.320 | INFO     | __main__:<module>:23 - Arquivo 1 processado com sucesso
+2025-01-28 09:15:46.320 | INFO     | __main__:<module>:23 - Arquivo 2 processado com sucesso
+2025-01-28 09:15:46.320 | INFO     | __main__:<module>:23 - Arquivo 3 processado com sucesso
+2025-01-28 09:15:46.320 | INFO     | __main__:<module>:23 - Arquivo 4 processado com sucesso
+2025-01-28 09:15:46.320 | INFO     | __main__:<module>:23 - Arquivo 5 processado com sucesso
+2025-01-28 09:15:46.321 | INFO     | __main__:<module>:23 - Arquivo 6 processado com sucesso
+2025-01-28 09:15:46.321 | INFO     | __main__:<module>:23 - Arquivo 7 processado com sucesso
+2025-01-28 09:15:46.321 | INFO     | __main__:<module>:23 - Arquivo 8 processado com sucesso
+2025-01-28 09:15:46.321 | INFO     | __main__:<module>:23 - Arquivo 9 processado com sucesso
+2025-01-28 09:17:29.764 | INFO     | __main__:<module>:8 - O sistema iniciou com sucesso! (INFO)
+2025-01-28 09:17:29.765 | WARNING  | __main__:<module>:9 - Aviso: Entrada de dados inesperada (WARNING)
+2025-01-28 09:17:29.765 | ERROR    | __main__:<module>:10 - Erro ao conectar ao banco de dados! (ERROR)
+2025-01-28 09:17:29.765 | CRITICAL | __main__:<module>:11 - Falha crítica! O sistema será encerrado. (CRITICAL)
+2025-01-28 09:17:29.765 | ERROR    | __main__:<module>:19 - An error has been caught in function '<module>', process 'MainProcess' (7200), thread 'MainThread' (12072):
+Traceback (most recent call last):
+
+> File "E:\-Progamacoes\GIthub\simple_apps\log_test.py", line 19, in <module>
+    divisao_por_zero()
+    └ <function divisao_por_zero at 0x000001D86D337060>
+
+  File "E:\-Progamacoes\GIthub\simple_apps\log_test.py", line 17, in divisao_por_zero
+    return 1 / 0  # Isso gerará um erro capturado automaticamente
+
+ZeroDivisionError: division by zero
+2025-01-28 09:17:29.766 | INFO     | __main__:<module>:23 - Arquivo 0 processado com sucesso
+2025-01-28 09:17:29.766 | INFO     | __main__:<module>:23 - Arquivo 1 processado com sucesso
+2025-01-28 09:17:29.766 | INFO     | __main__:<module>:23 - Arquivo 2 processado com sucesso
+2025-01-28 09:17:29.767 | INFO     | __main__:<module>:23 - Arquivo 3 processado com sucesso
+2025-01-28 09:17:29.767 | INFO     | __main__:<module>:23 - Arquivo 4 processado com sucesso
+2025-01-28 09:17:29.767 | INFO     | __main__:<module>:23 - Arquivo 5 processado com sucesso
+2025-01-28 09:17:29.767 | INFO     | __main__:<module>:23 - Arquivo 6 processado com sucesso
+2025-01-28 09:17:29.767 | INFO     | __main__:<module>:23 - Arquivo 7 processado com sucesso
+2025-01-28 09:17:29.767 | INFO     | __main__:<module>:23 - Arquivo 8 processado com sucesso
+2025-01-28 09:17:29.768 | INFO     | __main__:<module>:23 - Arquivo 9 processado com sucesso
