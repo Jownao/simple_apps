@@ -19,6 +19,7 @@ def divisao_por_zero():
 divisao_por_zero()
 
 # Exemplo de log em loop (Emulando processamento de arquivos)
+logger.info(f"Iniciando processamento de arquivos")
 for file in range(10):
     logger.info(f"Arquivo {file} processado com sucesso")
     file += 1
